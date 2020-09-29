@@ -8,4 +8,4 @@ while contador < 3:
 
 media = soma / 3
 
-print("Valor medio:", media
+print("Valor medio:", media)
